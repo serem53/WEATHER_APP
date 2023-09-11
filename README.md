@@ -66,3 +66,6 @@ Whether you're planning a trip, staying connected with family and friends in dif
 In Summary:
 "The Local Weather" is your go-to companion for staying on top of weather conditions in various cities. Its user-friendly interface, easy tracking, and hassle-free city removal features make it a must-have app for anyone seeking accurate weather information with convenience. Stay informed and make better decisions with the help of The Local Weather app.
 >>>>>>> origin/main
+TRY THE APP NOW,  
+click the link below to go to the app  
+[Search Meal App](https://sweatherr.netlify.app/)
