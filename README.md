@@ -32,4 +32,4 @@ In Summary:
 
 TRY THE APP NOW,  
 click the link below to go to the app  
-[Search Meal App](https://sweatherr.netlify.app/)
+[Weather App](https://sweatherr.netlify.app/)
